@@ -29,3 +29,14 @@ E:\Files\University\$Бакалавриат\7 семестр\Интеллект�
 E:\Files\University\$Бакалавриат\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 2\ES\ES\obj\Debug\ES.csproj.CoreCompileInputs.cache
 E:\Files\University\$Бакалавриат\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 2\ES\ES\obj\Debug\ES.exe
 E:\Files\University\$Бакалавриат\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 2\ES\ES\obj\Debug\ES.pdb
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\bin\Debug\ES.exe.config
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\bin\Debug\ES.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\bin\Debug\ES.pdb
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.csprojAssemblyReference.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.Form1.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.Form2.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.Properties.Resources.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.csproj.GenerateResource.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.csproj.CoreCompileInputs.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\Expert_System\ES\obj\Debug\ES.pdb

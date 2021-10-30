@@ -16,3 +16,13 @@ f:\Files\University\7 семестр\Интеллектуальные систе
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 3\ID3\ID3\obj\Debug\ID3.Form1.resources
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 3\ID3\ID3\obj\Debug\ID3.Properties.Resources.resources
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 3\ID3\ID3\obj\Debug\ID3.csproj.GenerateResource.Cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\bin\Debug\ID3.exe.config
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\bin\Debug\ID3.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\bin\Debug\ID3.pdb
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.Form1.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.Properties.Resources.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.csproj.GenerateResource.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.csproj.CoreCompileInputs.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\ID3_algorithm\ID3\obj\Debug\ID3.pdb

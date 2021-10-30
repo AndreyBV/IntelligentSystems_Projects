@@ -113,3 +113,35 @@ f:\Files\University\7 семестр\Интеллектуальные систе
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 4\K-means\K-means\obj\Debug\K_means.Properties.Resources.resources
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 4\K-means\K-means\obj\Debug\K_means.RegressinoAn.resources
 f:\Files\University\7 семестр\Интеллектуальные системы\Лабораторные работы\ЛР 4\K-means\K-means\obj\Debug\K-means.csproj.GenerateResource.Cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\K-means.exe.config
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\K-means.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\K-means.pdb
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\DotSpatial.GeoAPI.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\DotSpatial.NetTopologySuite.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\ZedGraph.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\DotSpatial.GeoAPI.xml
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\DotSpatial.NetTopologySuite.xml
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\ZedGraph.xml
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\de\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\es\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\fr\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\hu\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\it\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\ja\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\pt\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\ru\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\sk\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\sv\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\tr\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.csprojAssemblyReference.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K_means.Chart.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K_means.Form1.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K_means.Properties.Resources.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K_means.RegressinoAn.resources
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.csproj.GenerateResource.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.csproj.CoreCompileInputs.cache
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.csproj.CopyComplete
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.exe
+E:\Files\Desktop\Новая папка\IntelligentSystems_Projects\K_means\K-means\obj\Debug\K-means.pdb
